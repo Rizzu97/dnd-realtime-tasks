@@ -6,7 +6,7 @@ Welcome to the GitHub repository for **Task Manager**! This project is a simple 
 
 The design of Task Manager was created in Figma to provide a clear and intuitive interface, optimized for managing tasks in real-time. You can view the current design via the following link:
 
-[Design](<#https://www.figma.com/file/852WnjhamWbx82LbwyYX6l/Task-Tracker-for-Small-and-Medium-sized-Businesses-(Community)?type=design&node-id=0-1&mode=design&t=ym0bTLZzrc2lAB4l-0>>)
+[Design](<https://www.figma.com/file/852WnjhamWbx82LbwyYX6l/Task-Tracker-for-Small-and-Medium-sized-Businesses-(Community)?type=design&node-id=0-1&mode=design&t=ym0bTLZzrc2lAB4l-0>)
 
 ## Features
 
