@@ -13,3 +13,4 @@ The design of Task Manager was created in Figma to provide a clear and intuitive
 - **Intuitive Task Management**: Drag and drop tasks between columns to change their status easily.
 - **Real-Time Visibility**: Any changes to a task's status are updated and reflected immediately on the interface for all users.
 - **Simple and Elegant Interface**: A minimalist design that allows you to focus on tasks without distractions.
+# dnd-realtime-tasks
